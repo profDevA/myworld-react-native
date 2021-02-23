@@ -1,0 +1,6 @@
+module Pods_MyWorld_MyWorldTests {
+  umbrella header "Pods-MyWorld-MyWorldTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
